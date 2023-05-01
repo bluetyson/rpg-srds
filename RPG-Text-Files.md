@@ -19,6 +19,7 @@
 ## Needs Conversion
 * 13th Age -- https://pelgranepress.com//nas/content/live/pelgranepress/wp-content/uploads/2013/10/13th-Age-Archmage-Engine-v4.0.docx
 * Blades In the Dark -- https://bladesinthedark.com/basics
+* Dungeonworld -- https://www.dungeonworldsrd.com/
 * OSRIC -- https://osricwiki.presgas.name/doku.php?id=osric:index#explanatory_notes_and_definitions_of_terms
 
 ## Two Column problem
