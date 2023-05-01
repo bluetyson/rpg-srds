@@ -105,6 +105,9 @@ integrate missing ones from https://www.tenkarstavern.com/p/f.html
 * RPG Library Open Game Content -- https://ogc.rpglibrary.org/index.php?title=Main_Page
 * Forever Open Source Jame -- https://itch.io/jam/forever-open-source-jam
 * Creative Commons -- https://rpggeek.com/geeklist/152738/creative-commons-rpgs
+* Fossilbank Libre -- http://fossilbank.wikidot.com/category:tabletop-game-libre/
+* RPG Net Wiki -- https://wiki.rpg.net/index.php/Open_Game_Systems
+* Reddit thread -- https://www.reddit.com/r/librerpg/wiki/list-of-libre-rpgs/
 
 ## CC Games not on the web
 
