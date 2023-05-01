@@ -1,5 +1,6 @@
 # Fantasy
 
+* Adventurer Conqueror King -- https://github.com/capheind/ACKS_SRD [need to get each chapter and combine]
 * Basic Fantasy -- https://www.basicfantasy.org/srd/
 * The Black Hack -- https://raw.githubusercontent.com/brunobord/the-black-hack/master/english/the-black-hack.md
 * D&D 5E -- https://github.com/bluetyson/CC-SRD/blob/main/SRD5.1-CCBY4.0License-TT.txt
@@ -9,13 +10,18 @@
 ## Needs Downloading
 * Cairn -- https://drive.google.com/drive/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm
 * Ironsworn -- https://docs.google.com/document/d/11ypqt6GfLuBhGDJuBGWKlHa-Ru48Tf3G_6zbrYKmXgY/edit#
-* Mark of the Odd - https://docs.google.com/document/d/12Xrci8fedcC5SrLNt_gkJXmNTM0PzYrgW8zu4ZHbJBQ/edit
+* Mark of the Odd -- https://docs.google.com/document/d/12Xrci8fedcC5SrLNt_gkJXmNTM0PzYrgW8zu4ZHbJBQ/edit
+* Retroquest II -- https://viletraveller.files.wordpress.com/2012/01/d100ii_srd_1_3.doc
+* Swords and Wizardry Whitebox -- https://www.dropbox.com/s/cs61vq5q476q7in/SWWBdoc.doc?dl=0
 * Troika -- https://docs.google.com/document/d/1haUfSVekt2gNab3V2CrL1Pg_sZ-ZlskphwXmSnGT9aw/edit#
 
 ## Needs Conversion
 * 13th Age -- https://pelgranepress.com//nas/content/live/pelgranepress/wp-content/uploads/2013/10/13th-Age-Archmage-Engine-v4.0.docx
 * Blades In the Dark -- https://bladesinthedark.com/basics
 * OSRIC -- https://osricwiki.presgas.name/doku.php?id=osric:index#explanatory_notes_and_definitions_of_terms
+
+## Two Column problem
+* Swords and Wizardry Core -- https://www.dropbox.com/s/sp3hv368bky58og/SWcore4.rtf?dl=0
 
 # Horror
 
