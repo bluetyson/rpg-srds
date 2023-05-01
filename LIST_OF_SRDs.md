@@ -100,3 +100,7 @@ integrate missing ones from https://www.tenkarstavern.com/p/f.html
 
 * https://thedicequeen.wordpress.com/osrd/
 
+## CC Games not on the web
+
+* Knave -- https://questingbeast.itch.io/knave
+
