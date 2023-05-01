@@ -21,6 +21,7 @@
 * Open Legend SRD -- https://openlegendrpg.com/ and https://github.com/openlegend/core-rules
 * Anime d20 — System Reference Document v1.0 -- http://www.opengamingfoundation.org/animesrd/Ability_Scores.htm
 * The Arcanum 30th Anniversary Edition SRD -- http://zila-games.com/arcanum/
+* True20 -- https://www.darkshire.net/jhkim/rpg/srd/srd_true_generic/index.html
 
 ## d100 SRDs
 
@@ -66,6 +67,7 @@
 
 * Fate Core -- http://fate-srd.com/fate-core/basics
 * Fudge SRD -- http://www.sonic.net/~rknop/php/Omar/fudge/FudgeSRD/
+ * https://fudgesrd.opengamingnetwork.com/
 
 ## Other SRDs
 
