@@ -38,8 +38,10 @@
 ** Traveller Mongoose -- http://www.travellersrd.com/content/official/mongoose_traveller_srd/mongoose_traveller_srd_index.html
 
 # Superhero
-* Atomic Robo -- https://github.com/fate-srd/fate-srd-content/blob/main/docs/markdown/atomic-robo-SRD.md
+
 * 4CS -- https://archive.org/stream/4cSystemSuperheroRoleplayinglibreEdition/4cSystem_djvu.txt
+* Atomic Robo -- https://github.com/fate-srd/fate-srd-content/blob/main/docs/markdown/atomic-robo-SRD.md
+* Spirit of the Century -- https://www.faterpg.com/dl/sotc-srd.html
 
 ## Needs Conversion
 * Bulletproof Blues -- https://ogc.rpglibrary.org/index.php?title=Bulletproof_Blues_3e_EN:Contents
