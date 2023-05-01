@@ -94,3 +94,7 @@
 
 integrate missing ones from https://www.tenkarstavern.com/p/f.html
 
+## Other Lists
+
+* https://thedicequeen.wordpress.com/osrd/
+
