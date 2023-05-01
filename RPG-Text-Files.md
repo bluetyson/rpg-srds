@@ -55,5 +55,6 @@
 * Gumshoe -- https://site.pelgranepress.com/gumshoe/files/GUMSHOE_SRD_CC_3.docx
 
 ## Needs Conversion
+* FUDGE -- http://www.sonic.net/~rknop/php/Omar/fudge/FudgeSRD/
 * WOIN -- https://sites.google.com/site/woinrrd/#h.8laq4g7jnkha
 
