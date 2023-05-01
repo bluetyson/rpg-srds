@@ -1,7 +1,8 @@
 # Fantasy
 
-* D&D 5E -- https://github.com/bluetyson/CC-SRD/blob/main/SRD5.1-CCBY4.0License-TT.txt
+* Basic Fantasy -- https://www.basicfantasy.org/srd/
 * The Black Hack -- https://raw.githubusercontent.com/brunobord/the-black-hack/master/english/the-black-hack.md
+* D&D 5E -- https://github.com/bluetyson/CC-SRD/blob/main/SRD5.1-CCBY4.0License-TT.txt
 * Tunnel Goons -- https://tunnelgoons.com/srd
 
 ## Needs Downloading
