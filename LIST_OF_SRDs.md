@@ -1,6 +1,7 @@
 ## d20 SRDs
 
 * Basic Fantasy Role-Playing Game SRD -- https://www.dustinian.com/_prototypes/bfrpg_srd.html
+* The Black Hack -- https://the-black-hack.jehaisleprintemps.net/
 * Dungeons and Dragons 5e SDR -- http://dnd.wizards.com/articles/features/systems-reference-document-srd
 * Pathfinder SRD -- http://www.d20pfsrd.com/
 * DnD 3.5 -- http://www.d20srd.org/index.htm
@@ -98,7 +99,7 @@ integrate missing ones from https://www.tenkarstavern.com/p/f.html
 
 ## Other Lists
 
-* https://thedicequeen.wordpress.com/osrd/
+* Dice Queen - https://thedicequeen.wordpress.com/osrd/
 * RPG Library Open Game Content -- https://ogc.rpglibrary.org/index.php?title=Main_Page
 
 ## CC Games not on the web
