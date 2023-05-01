@@ -99,8 +99,12 @@ integrate missing ones from https://www.tenkarstavern.com/p/f.html
 ## Other Lists
 
 * https://thedicequeen.wordpress.com/osrd/
+* RPG Library Open Game Content -- https://ogc.rpglibrary.org/index.php?title=Main_Page
 
 ## CC Games not on the web
 
 * Knave -- https://questingbeast.itch.io/knave
+
+## OGL
+* Sw
 
