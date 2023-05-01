@@ -15,5 +15,6 @@
 * Drama System -- https://www.pelgranepress.com/wp-content/uploads/2013/09/DramaSystemCC.doc
 
 # Horror
+* Gumshoe -- https://site.pelgranepress.com/gumshoe/files/GUMSHOE_SRD_CC_3.docx
 * Liminal Horror -- https://goblinarchives.github.io/LiminalHorror/Design%20Framework/
 * Opening the Dark -- https://ia902905.us.archive.org/21/items/OpeningTheDarkSRD/Opening%20the%20Dark%20SRD.txt
