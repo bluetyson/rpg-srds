@@ -24,3 +24,7 @@
 # Science Fiction
 
 * Diaspora -- https://www.vsca.ca/Diaspora/diaspora-srd.html
+
+# Superhero
+* 4CS -- https://archive.org/stream/4cSystemSuperheroRoleplayinglibreEdition/4cSystem_djvu.txt
+
