@@ -33,5 +33,6 @@
 * Drama System -- https://www.pelgranepress.com/wp-content/uploads/2013/09/DramaSystemCC.doc
 * Fate Accelerated -- https://github.com/fate-srd/fate-srd-content/blob/main/docs/markdown/fate-accelerated-SRD.md
 * Fate Condensed -- https://github.com/fate-srd/fate-srd-content/blob/main/docs/markdown/Fate-Condensed-SRD-CC-BY.md
+* Fate Core -- https://github.com/fate-srd/fate-srd-content/blob/main/docs/markdown/fate-core.md
 * Gumshoe -- https://site.pelgranepress.com/gumshoe/files/GUMSHOE_SRD_CC_3.docx
 
