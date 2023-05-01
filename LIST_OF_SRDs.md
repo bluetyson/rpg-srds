@@ -101,6 +101,7 @@ integrate missing ones from https://www.tenkarstavern.com/p/f.html
 
 * Dice Queen - https://thedicequeen.wordpress.com/osrd/
 * RPG Library Open Game Content -- https://ogc.rpglibrary.org/index.php?title=Main_Page
+* Forever Open Source Jame -- https://itch.io/jam/forever-open-source-jam
 
 ## CC Games not on the web
 
