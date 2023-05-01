@@ -33,6 +33,9 @@
 
 * Diaspora -- https://www.vsca.ca/Diaspora/diaspora-srd.html
 
+## Needs Conversion
+** Traveller Mongoose -- http://www.travellersrd.com/content/official/mongoose_traveller_srd/mongoose_traveller_srd_index.html
+
 # Superhero
 * Atomic Robo -- https://github.com/fate-srd/fate-srd-content/blob/main/docs/markdown/atomic-robo-SRD.md
 * 4CS -- https://archive.org/stream/4cSystemSuperheroRoleplayinglibreEdition/4cSystem_djvu.txt
