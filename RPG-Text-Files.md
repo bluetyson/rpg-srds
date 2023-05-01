@@ -16,3 +16,4 @@
 
 # Horror
 * Liminal Horror -- https://goblinarchives.github.io/LiminalHorror/Design%20Framework/
+* Opening the Dark -- https://ia902905.us.archive.org/21/items/OpeningTheDarkSRD/Opening%20the%20Dark%20SRD.txt
