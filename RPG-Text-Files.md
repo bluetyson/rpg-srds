@@ -46,13 +46,14 @@
 
 # Universal
 
-* Drama System -- https://www.pelgranepress.com/wp-content/uploads/2013/09/DramaSystemCC.doc
+* Cypher System -- https://callmepartario.github.io/og-csrd/
 * Fate Accelerated -- https://github.com/fate-srd/fate-srd-content/blob/main/docs/markdown/fate-accelerated-SRD.md
 * Fate Condensed -- https://github.com/fate-srd/fate-srd-content/blob/main/docs/markdown/Fate-Condensed-SRD-CC-BY.md
 * Fate Core -- https://github.com/fate-srd/fate-srd-content/blob/main/docs/markdown/fate-core.md
 
 ## Needs Downloading
 * Cypher System -- https://csol.montecookgames.com/wp-content/uploads/2023/04/Cypher-System-Reference-Document-2023-04-18.docx
+* Drama System -- https://www.pelgranepress.com/wp-content/uploads/2013/09/DramaSystemCC.doc
 * Gumshoe -- https://site.pelgranepress.com/gumshoe/files/GUMSHOE_SRD_CC_3.docx
 
 ## Needs Conversion
