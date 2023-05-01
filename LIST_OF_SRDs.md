@@ -72,6 +72,7 @@
 * After Sundown SRD -- https://github.com/thegamingden/after-sundown
 * Black Spear RPG System Resource Document -- https://www.drivethrurpg.com/product/320985/IronSpike--System-Resource-Document-and-Compatibility-License-for-Black-Spear
 * Bulletproof Blues -- http://ogc.rpglibrary.org/index.php?title=Bulletproof_Blues
+* Cairn -- https://ciarnrpg.com/
 * Cortex Prime SRD -- https://www.cortexrpg.com/compendium/explore-the-rules/
 * Cypher System -- https://csol.montecookgames.com/
 * DicePunk SRD -- https://www.drivethrurpg.com/product/154330/DicePunk-SRD
