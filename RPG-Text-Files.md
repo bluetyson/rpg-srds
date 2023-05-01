@@ -46,5 +46,10 @@
 * Fate Accelerated -- https://github.com/fate-srd/fate-srd-content/blob/main/docs/markdown/fate-accelerated-SRD.md
 * Fate Condensed -- https://github.com/fate-srd/fate-srd-content/blob/main/docs/markdown/Fate-Condensed-SRD-CC-BY.md
 * Fate Core -- https://github.com/fate-srd/fate-srd-content/blob/main/docs/markdown/fate-core.md
+
+## Needs Downloading
 * Gumshoe -- https://site.pelgranepress.com/gumshoe/files/GUMSHOE_SRD_CC_3.docx
+
+## Needs Conversion
+* WOIN -- https://sites.google.com/site/woinrrd/#h.8laq4g7jnkha
 
