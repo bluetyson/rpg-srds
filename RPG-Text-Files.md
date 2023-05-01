@@ -14,6 +14,7 @@
 
 ## Needs Conversion
 * 13th Age -- https://pelgranepress.com//nas/content/live/pelgranepress/wp-content/uploads/2013/10/13th-Age-Archmage-Engine-v4.0.docx
+* Blades In the Dark -- https://bladesinthedark.com/basics
 * OSRIC -- https://osricwiki.presgas.name/doku.php?id=osric:index#explanatory_notes_and_definitions_of_terms
 
 # Horror
@@ -28,6 +29,9 @@
 # Superhero
 * Atomic Robo -- https://github.com/fate-srd/fate-srd-content/blob/main/docs/markdown/atomic-robo-SRD.md
 * 4CS -- https://archive.org/stream/4cSystemSuperheroRoleplayinglibreEdition/4cSystem_djvu.txt
+
+## Needs Conversion
+* Bulletproof Blues -- https://ogc.rpglibrary.org/index.php?title=Bulletproof_Blues_3e_EN:Contents
 
 # Universal
 
