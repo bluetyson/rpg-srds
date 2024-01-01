@@ -116,3 +116,5 @@ integrate missing ones from https://www.tenkarstavern.com/p/f.html
 ## OGL
 * Sw
 
+## 5E Github Database version
+* Random Wizard - https://github.com/random-wizard/1d20-5e-srd
